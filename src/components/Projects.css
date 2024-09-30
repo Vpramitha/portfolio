@@ -1,0 +1,31 @@
+.custom-card {
+  max-width: 300px;
+  
+  min-width: 300px; /* Cards have a fixed minimum width */
+  margin-right: 15px; /* Space between the cards */
+}
+
+.custom-card-img {
+  width: 100%;
+  height: auto; /* Ensuring the image scales with the card */
+}
+
+
+.projects-container {
+  overflow-x: auto; /* Enable horizontal scrolling for small screens */
+  display: flex;
+  padding: 0 15px;
+}
+
+.row {
+  flex-wrap: nowrap; /* Prevents wrapping of cards for horizontal layout */
+  width: 100%;
+}
+
+
+
+@media (min-width: 992px) {
+  .row {
+    flex-wrap: wrap; /* Cards wrap normally on larger screens */
+  }
+}
