@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bffa7195.css",
+    "main.js": "/portfolio/static/js/main.ae2958da.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/parkingManagementSystem1.png": "/portfolio/static/media/parkingManagementSystem1.51ed793492e91a18d6cf.png",
+    "static/media/main dashboard.png": "/portfolio/static/media/main dashboard.d0bd9debb1182a925902.png",
+    "static/media/classManagementApp.png": "/portfolio/static/media/classManagementApp.f904390dba6cf73d86d0.png",
+    "static/media/Vidul Pramitha CV final.pdf": "/portfolio/static/media/Vidul Pramitha CV final.ac7ccb294859da677321.pdf",
+    "static/media/Screenshot 2024-09-30 145650.png": "/portfolio/static/media/Screenshot 2024-09-30 145650.1f6017287c2c9c4c905a.png",
+    "static/media/Vidul2backN2.png": "/portfolio/static/media/Vidul2backN2.3fb5c9d61096afee8c34.png",
+    "static/media/dustBinProject.jpg": "/portfolio/static/media/dustBinProject.49728c853b6ea1eecede.jpg",
+    "static/media/icons8-whatsapp-512.png": "/portfolio/static/media/icons8-whatsapp-512.f4bc2f541e790ecf095a.png",
+    "static/media/icons8-whatsapp-240.png": "/portfolio/static/media/icons8-whatsapp-240.591263938b0b44815ec4.png",
+    "static/media/icons8-gmail-480.png": "/portfolio/static/media/icons8-gmail-480.146da2f2929dfc9c851f.png",
+    "index.html": "/portfolio/index.html",
+    "main.bffa7195.css.map": "/portfolio/static/css/main.bffa7195.css.map",
+    "main.ae2958da.js.map": "/portfolio/static/js/main.ae2958da.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bffa7195.css",
+    "static/js/main.ae2958da.js"
+  ]
+}
